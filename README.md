@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/69552520/173170076-03a144ee-2d3f-42a5-a6a7-4131362c0b55.png" width="300px">
   <h1>Oracle / Oráculo</h1>
-  <p>Application that <strong>reveals</strong> the future.</p>
+  <p>The application developed during the <strong>Maratona Explorer event, by Rocketseat,</strong> in which it simulates an oracle making predictions about the future and returning a response to the user when certain information is sent.
+</p>
 </div>
 
 <h2>🚀 Technologies</h2>
