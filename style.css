@@ -10,7 +10,7 @@ body {
   background-color: black;
   color: white;
 
-  font-family: 'Open Sans', sans-serif;
+  font-family: sans-serif;
 }
 
 body #container {
@@ -22,10 +22,9 @@ body #container {
   margin-inline: auto;
 }
 
-#container input,
-button {
-  margin: auto;
-  display: block;
+#container h1 {
+  font-size: 2rem;
+  padding-inline: 1rem;
 }
 
 #container img {
@@ -35,7 +34,16 @@ button {
 #container p {
   font-size: 0.9rem;
   opacity: 0.7;
+
   margin-bottom: 1.3rem;
+  margin-top: 0.5rem;
+  padding-inline: 20px;
+}
+
+#container input,
+button {
+  margin: auto;
+  display: block;
 }
 
 #container input {
